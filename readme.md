@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/> TinkerFrank's Github <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/>
 </h1> 
 <p>
-<img src="https://img.shields.io/badge/-Linkedin-1a73e8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<a href="https://www.frankchristian.nl/" target="_blank"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 </p>
 <h3> About me </h3>
 <p>Welcome to my profile! I'm Frank from <img src="https://emojis.slackmojis.com/emojis/images/1620256953/36224/dutch.png?1620256953" width="13"/><b> The Hague, The Netherlands</b>. I have a background in Mechanical Engineering, Entrepeneurship and Applied Artificial Intelligence. I like to tinker with technology and constantly challenge myself to learn new things. </p>
