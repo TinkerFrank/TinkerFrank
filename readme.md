@@ -16,7 +16,7 @@
   <img atl="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-2088FF?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Ubuntu Server" src="https://img.shields.io/badge/-Github-2088FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Ubuntu Server" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   
 </p>
 <h3>Open source projects</h3>
