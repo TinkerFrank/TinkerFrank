@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/> TinkerFrank's Github <img src="https://emojis.slackmojis.com/emojis/imagesCancel changes/1643515023/10521/meow_code.gif?1643515023" width="30"/></h1>
 
-<img src="https://img.shields.io/badge/-Linkedin-1a73e8?style=flat-square&logo=Linkedin&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/-Linkedin-1a73e8?style=flat-square&logo=Linkedin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <p>Welcome to my proifle, I'm Frank, from <img src="https://emojis.slackmojis.com/emojis/images/1620256953/36224/dutch.png?1620256953" width="13"/><b> The Hague, The Netherlands </b>. </p>
 <h3>Things I tinker with</h3>
