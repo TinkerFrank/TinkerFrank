@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 <h3> About me </h3>
-<p>Welcome to my proifle, I'm Frank, from <img src="https://emojis.slackmojis.com/emojis/images/1620256953/36224/dutch.png?1620256953" width="13"/><b> The Hague, The Netherlands </b>. </p>
+<p>Welcome to my proifle, I'm Frank, background in Mechanical Engineering and Applied Artificial Intelligence from <img src="https://emojis.slackmojis.com/emojis/images/1620256953/36224/dutch.png?1620256953" width="13"/><b> The Hague, The Netherlands </b>. </p>
 <h3>Things I tinker with</h3>
 <p>
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
