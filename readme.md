@@ -22,7 +22,7 @@
 </p>
 <h3> Badges </h3>
 <p>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a9bd51b-c107-4628-9d8f-d4cd70c1bbe9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img = https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png>
 </p>
 </p>
 <h3>Open source projects</h3>
