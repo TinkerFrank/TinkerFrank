@@ -20,6 +20,11 @@
   <img alt="Ubuntu Server" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   
 </p>
+<h3> Badges </h3>
+<p>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1a9bd51b-c107-4628-9d8f-d4cd70c1bbe9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</p>
+</p>
 <h3>Open source projects</h3>
       <td><a href="https://github.com/TinkerFrank/Flutter-Health-App"><b>Simple Flutter App</b></a></td>
 <h3>Blog Posts</h3>
