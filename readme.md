@@ -22,7 +22,7 @@
 </p>
 <h3> Badges </h3>
 <p>
-<img src=https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png  width="200" height="200" />
+<img src=https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png  width="100" height="100" />
 </p>
 </p>
 <h3>Open source projects</h3>
