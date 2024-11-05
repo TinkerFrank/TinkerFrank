@@ -27,5 +27,3 @@
 </p>
 <h3>Open source projects</h3>
       <td><a href="https://github.com/TinkerFrank/Flutter-Health-App"><b>Simple Flutter App</b></a></td>
-<h3>Blog Posts</h3>
-      <td><a href="https://www.frankchristian.nl/index.php/2023/01/23/first-steps-building-a-deep-learning-model/"><b>First Steps Building a Deep Learning Model</b></a></td>
