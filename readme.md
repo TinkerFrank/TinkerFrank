@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/TinkerFrank/TinkerFrank/refs/heads/main/summerschool.png" alt="Summerschool" />
 </a>
 <a href="https://tryhackme.com/r/p/TinkerF">
-<img src="https://tryhackme-badges.s3.amazonaws.com/TinkerF.png" alt="TryHackMe Badge" />
+<img src="TinkerF.png" alt="TryHackMe Badge" />
 </a>
 
 </p>
