@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/> TinkerFrank's Github <img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/>
 </h1> 
 <h3> About me </h3>
-<p>Welcome to my profile! I'm Frank from <img src="https://emojis.slackmojis.com/emojis/images/1620256953/36224/dutch.png?1620256953" width="13"/><b> The Hague, The Netherlands</b>. I have a background in Mechanical Engineering, Entrepeneurship, Applied Artificial Intelligence and Cybersecurity. I like to tinker with technology and constantly challenge myself to learn new skills. </p>
+<p>Welcome to my profile! I'm Frank from <img src="https://emojis.slackmojis.com/emojis/images/1620256953/36224/dutch.png?1620256953" width="13"/><b> The Netherlands</b>. I have a background in Mechanical Engineering, Entrepeneurship, Applied Artificial Intelligence and Cybersecurity. I like to tinker with technology and constantly challenge myself to learn new skills. </p>
 <h3>Things I tinker with</h3>
 <p>
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
